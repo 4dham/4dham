@@ -24,20 +24,6 @@ Currently grinding through TCM Security's PT path.
 - **PT Lab Writeups** ### 📝 Latest: [TryHackMe Writeups - Top 8%](https://github.com/4dham/tryhackme-writeups) - My live Offensive journey - Documenting my practical learning journey
 - **Port Scanner (WIP)** - Next project while learning networking
 ---
-### Certificates (2021-2023)
-
-#### 🎓 AUPS Scholarship 2023
-![AUPS Banner](https://raw.githubusercontent.com/4dham/4dham/main/aups_AUPS.png)
-- **American University of Professional Studies**
-- Programs: English Intermediate (10:12) + Business Skills + Graphic Design
-- Grade: Excellent / Very Good (2023)
-- Center: International Group IG
-
-#### 🛡️ New ICDL V.6 - ICDL Arabia
-![ICDL Banner](https://raw.githubusercontent.com/4dham/4dham/main/icdl_banner.png)
-- Verified: Cyber Security 2.0 | Computer & Online Essentials | Office Essentials
-- Teba Training Center - 14/05/2022
----
 🎯 Current Focus
 ```
 > Learning: Active Directory, Cloud, Python for Security
