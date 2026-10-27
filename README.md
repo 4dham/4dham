@@ -5,11 +5,11 @@
 
 ```bash
 root@adham:~# whoami
-4dham | Aspiring Penetration Tester | PNPT in Progress | Network & AD Security Enthusiast
+4dham | Aspiring SOC Analyst | CompTIA Security+ in Progress | Network & AD Security Enthusiast
 
 root@adham:~# cat about.txt
-I'm a cybersecurity student from Damietta, Egypt, focused on Offensive Security.
-Currently grinding through TCM Security's PNPT path.
+I'm a cybersecurity student from Damietta, Egypt, focused on Defensive Security.
+Currently grinding through TCM Security's SOC path.
 ```
 
 ### 🌐 Portfolio: [4dham.github.io](https://4dham.github.io)
@@ -21,14 +21,14 @@ Currently grinding through TCM Security's PNPT path.
 
 🛠️ What I'm Building
 - **whale-analyzer** - DNS tracker to hunt ad companies and privacy leaks `Python | DNS`
-- **PBPT Lab Writeups** ### 📝 Latest: [TryHackMe Writeups - Top 9%](https://github.com/4dham/tryhackme-writeups) - My live hacking journey - Documenting my practical learning journey
+- **SOC Lab Writeups** ### 📝 Latest: [TryHackMe Writeups - Top 9%](https://github.com/4dham/tryhackme-writeups) - My live Defensive journey - Documenting my practical learning journey
 - **Port Scanner (WIP)** - Next project while learning networking
 
 🎯 Current Focus
 ```
-> Learning: Active Directory, Network Penetration, Python for Security
-> Practicing: TryHackMe, TCM Labs, CTFs
-> Goal: PNPT Certified -> Junior Pentester Role
+> Learning: Active Directory, Detection, Python for Security
+> Practicing: TryHackMe, TCM Labs
+> Goal: CompTIA Security+ Certified -> Junior SOC Role
 > Location: Damietta, Egypt [OPEN TO INTERNSHIPS]
 ```
 
